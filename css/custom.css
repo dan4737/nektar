@@ -1,0 +1,12 @@
+#navbar li{
+    display:inline-block;
+  }
+  #navbar a{
+    text-decoration:none;
+    font-size:18px;
+    padding-right:15px;
+}
+.row{
+    padding-top: 100px;
+    padding-bottom:100px;
+}
