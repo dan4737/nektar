@@ -17,6 +17,6 @@ define('PASSWORD', 'heroku_cdeaa0234ec03b4');
 
 
 
-mysql://bb9cfd5c84bff9:e35cc31f@us-cdbr-east-06.cleardb.net/heroku_cdeaa0234ec03b4?reconnect=true
+//mysql://bb9cfd5c84bff9:e35cc31f@us-cdbr-east-06.cleardb.net/heroku_cdeaa0234ec03b4?reconnect=true
 
 ?>

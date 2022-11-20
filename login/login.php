@@ -17,7 +17,7 @@ require('../controllers/product_controller.php');
     Document Title
     =============================================
     -->
-    <title>Nectar</title>
+    <title>Nektar</title>
     <!--  
     Favicons
     =============================================
