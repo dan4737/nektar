@@ -2,7 +2,7 @@
 <?php 
 require('../controllers/product_controller.php');
 require('../controllers/cart_controller.php');
-session_start();
+// session_start();
 //including menu
 include('menu.php');
 ?>
