@@ -10,8 +10,8 @@
 
 define('SERVER', 'us-cdbr-east-06.cleardb.net');
 define('USER', 'bb9cfd5c84bff9');
-define('DATABASE', 'e35cc31f');
-define('PASSWORD', 'heroku_cdeaa0234ec03b4');
+define('DATABASE', 'heroku_cdeaa0234ec03b4');
+define('PASSWORD', 'e35cc31f');
 
 
 
